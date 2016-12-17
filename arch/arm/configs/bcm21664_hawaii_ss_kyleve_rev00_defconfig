@@ -41,13 +41,8 @@ CONFIG_IRQ_WORK=y
 CONFIG_EXPERIMENTAL=y
 CONFIG_BROKEN_ON_SMP=y
 CONFIG_INIT_ENV_ARG_LIMIT=32
-<<<<<<< HEAD:arch/arm/configs/bcm21664_hawaii_ss_kyleve_rev00_defconfig
-CONFIG_CROSS_COMPILE="/home/sumit/cm11/prebuilt/linux-x86/toolchain/arm-eabi-4.6/bin/"
-CONFIG_LOCALVERSION="-sumit"
-=======
 CONFIG_CROSS_COMPILE=""
 CONFIG_LOCALVERSION="-Phoenix"
->>>>>>> a3954a5...  Añadir Nombre De Usuario,Team Y version de kernel:arch/arm/configs/bcm21664_hawaii_ss_kylevess_rev00_defconfig
 # CONFIG_LOCALVERSION_AUTO is not set
 CONFIG_HAVE_KERNEL_GZIP=y
 CONFIG_HAVE_KERNEL_LZMA=y
